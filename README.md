@@ -1,7 +1,7 @@
 # Candy Computer
 
-Do you know that Candy Crush is turing complete?
+Do you know that Candy Crush is Turing complete?
 
-try to solve the [challenge](https://candy.bronson113.org/) and recover the key!
+Try to solve the [challenge](https://candy.bronson113.org/) and recover the key!
 
 (There's no flag format)
