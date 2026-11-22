@@ -1,4 +1,4 @@
-# Candy Computer
+# Candy Crashcourse
 
 Do you know that Candy Crush is Turing complete?
 
